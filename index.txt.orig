@@ -1,4 +1,6 @@
 This is a First Line.
+<<<<<<< HEAD
 This line is added for feature1.
+=======
 This line is added from feature2.
-
+>>>>>>> feature2
